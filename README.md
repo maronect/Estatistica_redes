@@ -1,0 +1,1 @@
+# Uso de estatistica para reconhecimento de padrões em rede
